@@ -15,8 +15,7 @@ The Bookmarker website enables users to:
 
 ---
 ## 🚀 How to Use
-1. **<https://toka09.github.io/Bookmark/>
-   ```bash
+1. <https://toka09.github.io/Bookmark/>
 ---
 
 ## ✅ Features
