@@ -14,6 +14,10 @@ The Bookmarker website enables users to:
 - Update content without page reloads using DOM manipulation.
 
 ---
+## 🚀 How to Use
+1. **<https://toka09.github.io/Bookmark/>
+   ```bash
+---
 
 ## ✅ Features
 
@@ -43,10 +47,3 @@ The Bookmarker website enables users to:
 - **JavaScript** – Powers the app's interactivity, validation, and DOM updates.
 
 ---
-
-## 🚀 How to Use
-
-1. **Clone the repository:**
-2. **<https://toka09.github.io/Bookmark/>
-   ```bash
-   git clone https://github.com/toka09/bookmark.git
