@@ -47,6 +47,6 @@ The Bookmarker website enables users to:
 ## 🚀 How to Use
 
 1. **Clone the repository:**
-
+2. **<https://[github.com](https://toka09.github.io/Bookmark/)>
    ```bash
-   git clone https://github.com/toka09/bookmarker.git
+   git clone https://github.com/toka09/bookmark.git
